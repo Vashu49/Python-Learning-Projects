@@ -21,13 +21,5 @@ print('Tail:', my_linked_list.tail.value)
 print('Length:', my_linked_list.length)
 
 
-"""
-    EXPECTED OUTPUT:
-    ----------------
-    Head: 4
-    Tail: 4
-    Length: 1
-    
-"""
 
                                                                                                                     
